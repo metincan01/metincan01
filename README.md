@@ -2,10 +2,10 @@
 
 # Hi, I'm Metincan 👋
 
-`metincan@github:~$ whoami`
+`metincan01@github:~$ whoami`
 
-<br>
+<br><br>
 
-<img src="./metincan-ascii-portrait.svg" width="520" alt="Metincan ASCII Portrait">
+<img src="./metincan-ascii-portrait.svg" width="350" alt="Metincan ASCII Portrait">
 
 </div>
