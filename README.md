@@ -6,6 +6,15 @@
 
 <br><br>
 
-<img src="./metincan-ascii-portrait.svg" width="350" alt="Metincan ASCII Portrait">
+<table>
+<tr>
+<td>
+  <img src="./metincan-ascii-portrait.svg" width="330">
+</td>
+<td>
+  <img src="./metincan-info-card-pro.svg" width="430">
+</td>
+</tr>
+</table>
 
 </div>
